@@ -28,12 +28,60 @@
                                 >
                             </v-list>
                         </v-card-text>
-                        <div class="text-xs-center ma-5 pt-5 pb-5" align="center">
-                            <div
-                                    class="pipedriveWebForms"
-                                    data-pd-webforms="https://pipedrivewebforms.com/form/783f0940dc254a846238ecfa9f7dbb6d7412041"
-                            ></div>
-                        </div>
+                        <v-layout align-center row wrap>
+                            <v-flex xs8>
+                                <v-card class="elevation-0">
+                        <ValidationObserver ref="observer" v-slot="{ validate, reset }">
+                            <v-form method="POST" action="/form/83bb2bc7536a3f287d08ebfb21231ba37412041/en-US" id="pipedriveWebForm">
+                                <ValidationProvider v-slot="{ errors }" name="256614" rules="required|max:10">
+                                    <v-text-field
+                                            v-model="company"
+                                            name="256614"
+                                            :counter="10"
+                                            :error-messages="errors"
+                                            label="What is your company’s name? *"
+                                            required
+                                    ></v-text-field>
+                                </ValidationProvider>
+                                <ValidationProvider v-slot="{ errors }" name="256615" rules="required|max:10">
+                                    <v-text-field
+                                            v-model="name"
+                                            name="256615"
+                                            :counter="10"
+                                            :error-messages="errors"
+                                            label="What is your name? *"
+                                            required
+                                    ></v-text-field>
+                                </ValidationProvider>
+                                <ValidationProvider v-slot="{ errors }" name="256616" rules="required|email">
+                                    <v-text-field
+                                            v-model="email"
+                                            :error-messages="errors"
+                                            label=">What is your e-mail address? *"
+                                            required
+                                    ></v-text-field>
+                                </ValidationProvider>
+                                <ValidationProvider v-slot="{ errors }" name="256617" rules="required|max:10">
+                                    <v-text-field
+                                            v-model="phone"
+                                            name="256617"
+                                            type="tel"
+                                            :error-messages="errors"
+                                            label="What is your phone number? *"
+                                            required
+                                    ></v-text-field>
+                                </ValidationProvider>
+
+                                <div class="g-recaptcha" data-sitekey="6LeRUxsUAAAAANTK_BxBks0b-xdaKoINoImrak53" data-size="invisible"
+                                     data-badge="inline" data-callback="submitButton">
+                                </div>
+                                <v-btn class="mr-4" id="submitButton" type="submit" @click="submit">submit</v-btn>
+                                <v-btn @click="clear">clear</v-btn>
+                            </v-form>
+                        </ValidationObserver>
+                                </v-card>
+                            </v-flex>
+                        </v-layout>
                     </v-card>
                 </v-flex>
             </v-layout>
@@ -42,11 +90,66 @@
 </template>
 
 <script>
-  export default {
-    name: "Startform"
-  };
-</script>
+  import { required, email, max } from 'vee-validate/dist/rules'
+  import { extend, ValidationObserver, ValidationProvider, setInteractionMode } from 'vee-validate'
+  
+  setInteractionMode('eager')
+  
+  extend('required', {
+    ...required,
+    message: 'Field can not be empty',
+  })
+  
+  extend('max', {
+    ...max,
+    message: 'The name field may not be greater than {length} characters',
+  })
+  
+  extend('email', {
+    ...email,
+    message: 'This field must be a valid email',
+  })
 
+  extend('phone', {
+    ...email,
+    message: 'This field must be a valid email',
+  })
+  
+  export default {
+    name: "Startform",
+    components: {
+      ValidationProvider,
+      ValidationObserver,
+    },
+    data: () => ({
+      name: '',
+      email: '',
+      select: null,
+      items: [
+        'Item 1',
+        'Item 2',
+        'Item 3',
+        'Item 4',
+      ],
+      checkbox: null,
+    }),
+    
+    methods: {
+      submit () {
+        this.$refs.observer.validate()
+      },
+      clear () {
+        this.name = ''
+        this.email = ''
+        this.phone = ''
+        this.company = ''
+        this.select = null
+        this.checkbox = null
+        this.$refs.observer.reset()
+      },
+    },
+  }
+</script>
 <style scoped>
 
 </style>

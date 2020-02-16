@@ -17,7 +17,7 @@
         clipped: false,
         drawer: false,
         fixed: false,
-        title: 'Net Studios Inc.'
+        title: 'Net Sites Online | Performance Based Web Design Marketing Agency : Contact Us'
       }
     }
   };

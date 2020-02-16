@@ -56,7 +56,7 @@
         menu
       </i></v-app-bar-nav-icon>
       <v-toolbar-title>
-        <router-link to="/"><v-img src="@/assets/logov3.png" contain alt="NET Sites Online." class="" max-height="48" max-width="320" /></router-link>
+        <router-link to="/"><v-img src="@/assets/logo-v7.png" contain alt="NET Sites Online." class="" max-width="250" /></router-link>
       </v-toolbar-title>
       
       <v-spacer></v-spacer>
@@ -129,11 +129,11 @@
         { icon: 'mobile_screen_share', title: 'HOW IT WORKS', to: '/works/local-business-web.html' },
         { icon: 'public', title: 'PRICING', to: '/pricing/web-app-local-business-pricing.html' },
         { icon: 'desktop_mac', title: 'CONTACT US', to: '/start/start-now.html' },
-        { icon: 'group', title: 'KNOWLEDGE', to: '/marketing' },
-        { icon: 'phone', title: '(803) 560-4913' },
+        { icon: 'group', title: 'INSIDERS', to: '/insider' },
+        { icon: 'phone', title: '(803) 354-2363' },
       ],
       contact: [
-        { icon: 'phone', title: '(803) 560-4913' },
+        { icon: 'phone', title: '(803) 354-2363' },
         { icon: 'email', title: 'jason@netstudiosinc.com' },
         { icon: 'contact_support', title: 'support@netstudiosinc.com' },
         { icon: 'library_books', title: 'Knowledge Base', to: '/ghost' },

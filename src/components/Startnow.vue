@@ -6,8 +6,8 @@
                     <div class="text-xs-center ma-5 pt-5 pb-5" align="center">
                         <div class="flex display-1 font-weight-light pb-3">NET SITES ONLINE</div>
                         <div class="flex subheading font-weight-light">
-                            Give us a call at (864) 354-2363 or complete the form below if you
-                            have any questions or concerns. New customers can schedule a
+                            Give us a call at (803) 354-2363 or complete the form below to get started. If you
+                            have any questions or concerns please let us know. New customers: schedule a
                             conference call <router-link to="/meeting">here</router-link>
                         </div>
                     </div>

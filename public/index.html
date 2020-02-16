@@ -16,35 +16,38 @@
     </noscript>
     <div id="app"></div>
     <!-- built files will be auto injected -->
-    <script>
-        (function(w,d,t,u,n,a,m){w['MauticTrackingObject']=n;
-            w[n]=w[n]||function(){(w[n].q=w[n].q||[]).push(arguments)},a=d.createElement(t),
-                m=d.getElementsByTagName(t)[0];a.async=1;a.src=u;m.parentNode.insertBefore(a,m)
-        })(window,document,'script','https://www.oversearch.org/index.php/mtc.js','mt');
-
-        mt('send', 'pageview');
-    </script>
-    <script type="text/javascript">
-        /** This section is only needed once per page if manually copying **/
-        if (typeof MauticSDKLoaded == 'undefined') {
-            var MauticSDKLoaded = true;
-            var head            = document.getElementsByTagName('head')[0];
-            var script          = document.createElement('script');
-            script.type         = 'text/javascript';
-            script.src          = 'https://oversearch.org/index.php/media/js/mautic-form.js';
-            script.onload       = function() {
-                MauticSDK.onLoad();
-            };
-            head.appendChild(script);
-            var MauticDomain = 'https://oversearch.org/index.php';
-            var MauticLang   = {
-                'submittingMessage': "Please wait..."
-            }
-        }
-    </script>
+    
   </body>
 
-  <script src="https://cdn.snipcart.com/scripts/2.0/snipcart.js" data-api-key="ZTdlYzgxOGItZTgyMy00MGYzLWJmMWUtYWFjOTkwNWMyMDAyNjM3MDQ2MjU1OTE3ODE0ODQw
-" id="snipcart"></script>
+  <script src="https://cdn.pipedriveassets.com/web-form-assets/webforms.min.js"></script>
+  <script type="text/javascript" src="https://cdn.pipedriveassets.com/web-form-assets/web-forms/assets/js/keen.min.js?v=f4483e67cdf17b1a6fc937b53add66d82ff23cd2"></script>
+  <script type="text/javascript">
+    window.Keen && window.Keen.ready(function () {
+      var client = new window.Keen({
+          projectId: '572b166533e406119cbd5603',
+          writeKey: 'dd2f443954cdedd8181802e7a199120e0a99fc13f238fd5a9fd582235ed68dae8824d2673f81413dff8ac748aa165a15a453903cf7d550ed26159a5d20954fac783d19994aafdfc6a14a1b912f6f0c69974482ff1053153f254661d1bb6aed90',
+          protocol: 'https'
+        }),
+        eventData = {
+          form: {
+            hash: '83bb2bc7536a3f287d08ebfb21231ba37412041',
+            referrer: window.name.split('-').slice(0, -1).join(''),
+            userAgent: navigator.userAgent
+          },
+          keen: {
+            timestamp: new Date().toISOString()
+          }
+        };
+      client.recordEvent('c1b5dc2ae755d97df885653b40387425', eventData);
+    });
+  </script>
+  <svg class="cui-svg" style="display: none;">
+    <symbol viewBox="0 0 16 16" id="icon-small-check">
+      <title>small-check</title>
+      <path d="M3.352 6.92l-1.47 1.437 4.126 4.013 7.69-7.57-1.46-1.436-6.23 6.176-2.656-2.62z" fill="inherit"
+            fill-rule="evenodd" />
+    </symbol>
+  </svg>
+
   <script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
 </html>
