@@ -105,7 +105,7 @@
                                         <v-list-tile-content class="align-end">{{ item.mas }}</v-list-tile-content>
                                     </v-list-item>
                                     <v-list-item>
-                                        <v-list-item-content class="grey--text  text--darken-2 ">Payment:</v-list-item-content>
+                                        <v-list-item-content class="grey--text  text--darken-2 ">Cost :</v-list-item-content>
                                         <v-list-tile-content class="align-end">{{ item.setup }}</v-list-tile-content>
                                     </v-list-item>
                                     <v-list-item>
@@ -167,7 +167,7 @@
                     support: 'Yes',
                     marketing: 'Available',
                     mas: '$0',
-                    cost: '$795 setup + $49 per month',
+                    cost: '$795 deposit & $49 per month',
                     adspend: 'N/A',
                     up: '*Upgrade to "advanced" anytime'
                 },
@@ -203,7 +203,7 @@
                     support: '24/7',
                     marketing: 'Yes',
                     mas: '$0',
-                    cost: '$995 setup + $279 per month',
+                    cost: '$795 deposit & $279 per month',
                     adspend: '$0',
                     up: '* Ad spend not included'
                 },
