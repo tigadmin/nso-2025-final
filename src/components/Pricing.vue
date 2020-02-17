@@ -105,7 +105,7 @@
                                         <v-list-tile-content class="align-end">{{ item.mas }}</v-list-tile-content>
                                     </v-list-item>
                                     <v-list-item>
-                                        <v-list-item-content class="grey--text  text--darken-2 ">Setup:</v-list-item-content>
+                                        <v-list-item-content class="grey--text  text--darken-2 ">Payment:</v-list-item-content>
                                         <v-list-tile-content class="align-end">{{ item.setup }}</v-list-tile-content>
                                     </v-list-item>
                                     <v-list-item>
@@ -156,7 +156,7 @@
                     em: 'Yes',
                     pls: 'Available',
                     ps: 'Available',
-                    setup: '$795',
+                    setup: '$1495',
                     push: 'Yes',
                     sms: '$0.0075 per/message',
                     hosting: 'Yes',
@@ -192,7 +192,7 @@
                     em: 'Yes',
                     pls: 'Yes',
                     ps: 'Yes',
-                    setup: '$995',
+                    setup: '$1895',
                     push: 'Yes',
                     sms: '$0.0075 per/message',
                     hosting: 'Yes',
