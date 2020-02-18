@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.b6fbac270b5a3822e813abfb6a68e415.js"
+  "/precache-manifest.f1c527990ea7790229f87252e7cc8221.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "nsi-com"});

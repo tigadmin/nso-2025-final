@@ -2,16 +2,18 @@
     <div>
         <startnow />
         <Startform />
+        <Startpipe />
     </div>
 </template>
 
 <script>
   import Startnow from "../components/Startnow";
   import Startform from "../components/Startform";
+  import Startpipe from "../components/Startpipe";
 
   export default {
     name: "Start",
-    components: { Startform, Startnow},
+    components: { Startpipe, Startform, Startnow},
     data () {
       return {
         clipped: false,
