@@ -96,7 +96,7 @@
               app
               dense
       >
-          <span class="px-4">&copy; {{ new Date().getFullYear() }} NET Sites Online  <router-link to="/privacy">Privacy</router-link></span>
+          <span class="px-4"> Copyright &copy; {{ new Date().getFullYear() }} NET Studios Inc. All rights reserved.<router-link to="/privacy">Privacy</router-link></span>
           <v-col cols="12" sm="12" md="6">
               <v-btn
                       absolute
