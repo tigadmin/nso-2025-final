@@ -8,7 +8,6 @@
     <title>NET Sites Online - Performance Driven Website & Marketing Services</title>
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900">
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-    <link href="https://cdn.snipcart.com/themes/2.0/base/snipcart.min.css" rel="stylesheet" type="text/css" />
   </head>
   <body>
     <noscript>
@@ -18,8 +17,12 @@
     <!-- built files will be auto injected -->
     
   </body>
-
-  <script src="https://cdn.pipedriveassets.com/web-form-assets/webforms.min.js"></script>
+  <script src='https://www.google.com/recaptcha/api.js?hl=en-US' async defer></script>
+  <script>
+    function submitButton() {
+      document.getElementById("pipedriveWebForm").submit();
+    }
+  </script>
   <script type="text/javascript" src="https://cdn.pipedriveassets.com/web-form-assets/web-forms/assets/js/keen.min.js?v=f4483e67cdf17b1a6fc937b53add66d82ff23cd2"></script>
   <script type="text/javascript">
     window.Keen && window.Keen.ready(function () {
@@ -41,13 +44,5 @@
       client.recordEvent('c1b5dc2ae755d97df885653b40387425', eventData);
     });
   </script>
-  <svg class="cui-svg" style="display: none;">
-    <symbol viewBox="0 0 16 16" id="icon-small-check">
-      <title>small-check</title>
-      <path d="M3.352 6.92l-1.47 1.437 4.126 4.013 7.69-7.57-1.46-1.436-6.23 6.176-2.656-2.62z" fill="inherit"
-            fill-rule="evenodd" />
-    </symbol>
-  </svg>
-
   <script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
 </html>
