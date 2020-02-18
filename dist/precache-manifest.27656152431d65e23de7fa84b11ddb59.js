@@ -1,15 +1,15 @@
 self.__precacheManifest = [
   {
     "revision": "a1d0a48cf17886d62f3d4b111790f2a9",
-    "url": "/img/img/back/descriptions.jpg"
+    "url": "/img/img/back/description.jpg"
   },
   {
     "revision": "afa9e24da4b92e0ea0be",
     "url": "/js/about.c2a4a0d7.js"
   },
   {
-    "revision": "790bc21f074cc5ab960e",
-    "url": "/js/app.f43e21de.js"
+    "revision": "401fe7828e48cac35bfe",
+    "url": "/js/app.6147ea26.js"
   },
   {
     "revision": "b6216d61c03e6ce0c9aea6ca7808f7ca",
@@ -32,8 +32,8 @@ self.__precacheManifest = [
     "url": "/js/pricing.82c9c904.js"
   },
   {
-    "revision": "399f3b01368c8b42efe9",
-    "url": "/js/start.99827899.js"
+    "revision": "f9ddfa289e2f7d284f5d",
+    "url": "/js/start.d6e5a653.js"
   },
   {
     "revision": "3c5ba1ec060a6869dd57",
@@ -52,7 +52,7 @@ self.__precacheManifest = [
     "url": "/img/logo-v7.9ce9aaf7.png"
   },
   {
-    "revision": "edaf43e4f807c39737e7a44b8913060f",
+    "revision": "8b0d05a6c6c7e5c90ae57f6e1a22ccaa",
     "url": "/index.html"
   },
   {
@@ -128,8 +128,8 @@ self.__precacheManifest = [
     "url": "/img/img/local-business-digital-marketing.jpg"
   },
   {
-    "revision": "4411f3685f16710446cb11d1aa8835a2",
-    "url": "/img/img/restaurantimage-small.jpg"
+    "revision": "77596b46df9ed1591cd9337e9e436088",
+    "url": "/img/img/local-business-storage.jpg"
   },
   {
     "revision": "0fc39b4c4273e8c3239a43b716896d4c",
@@ -144,8 +144,8 @@ self.__precacheManifest = [
     "url": "/img/img/local-business/order-complete.jpeg"
   },
   {
-    "revision": "f87bb2dc2721461c2c641b8c06325550",
-    "url": "/img/img/local-marketing-advertising.jpg"
+    "revision": "4411f3685f16710446cb11d1aa8835a2",
+    "url": "/img/img/restaurantimage-small.jpg"
   },
   {
     "revision": "a9053c7c26122517f83f5bb042a6aec4",
@@ -164,6 +164,10 @@ self.__precacheManifest = [
     "url": "/img/img/reputation-mgt.jpg"
   },
   {
+    "revision": "f87bb2dc2721461c2c641b8c06325550",
+    "url": "/img/img/local-marketing-advertising.jpg"
+  },
+  {
     "revision": "29bea2e42bc1de670761030cfc072cc8",
     "url": "/img/img/local-business-webdesign-marketing.png"
   },
@@ -176,16 +180,12 @@ self.__precacheManifest = [
     "url": "/img/img/local-business.png"
   },
   {
-    "revision": "db2c90d0b4be407e5cda36993966d1d5",
-    "url": "/img/img/local-business/restaurant-advertising.jpg"
+    "revision": "7bc12d17cecfcd9c83a6866c898de9f2",
+    "url": "/img/img/local-business-marketing-advertising.jpg"
   },
   {
     "revision": "0cbd89cf3abdd3fe4be346d8fff54bc3",
     "url": "/img/img/local-business/facebook-restaurant-marketing.jpg"
-  },
-  {
-    "revision": "7bc12d17cecfcd9c83a6866c898de9f2",
-    "url": "/img/img/local-business-marketing-advertising.jpg"
   },
   {
     "revision": "3f5965d468a70cf59696f5ea608b27a7",
@@ -204,8 +204,8 @@ self.__precacheManifest = [
     "url": "/img/img/poynt-payment-processor.jpg"
   },
   {
-    "revision": "3e1ebee07ee66c49cf61d03ff364f624",
-    "url": "/img/img/local-website-designers.jpg"
+    "revision": "db2c90d0b4be407e5cda36993966d1d5",
+    "url": "/img/img/local-business/restaurant-advertising.jpg"
   },
   {
     "revision": "ad1cdfe58100afb5ee5f3b75c076a620",
@@ -216,16 +216,20 @@ self.__precacheManifest = [
     "url": "/img/img/local-business/local-restaurant-marketing-social-search.jpg"
   },
   {
+    "revision": "3e1ebee07ee66c49cf61d03ff364f624",
+    "url": "/img/img/local-website-designers.jpg"
+  },
+  {
     "revision": "c2e46caf9bc151b228da00263b209df6",
     "url": "/img/img/pwa-local.png"
   },
   {
-    "revision": "8d9d83a905cff1a59907cb7b4084e126",
-    "url": "/img/img/local-web-designer-near-me.jpg"
-  },
-  {
     "revision": "7a5c260c2ee6bf055a2fcafca32748eb",
     "url": "/img/img/pwa-local.jpg"
+  },
+  {
+    "revision": "8d9d83a905cff1a59907cb7b4084e126",
+    "url": "/img/img/local-web-designer-near-me.jpg"
   },
   {
     "revision": "d44e29c9753b580742ae66c812e281e1",
@@ -240,10 +244,6 @@ self.__precacheManifest = [
     "url": "/img/img/marketing-strategy.jpg"
   },
   {
-    "revision": "2e83f85b5c534fbe835498890415b71b",
-    "url": "/img/img/local-business/local-restaurant-search.jpg"
-  },
-  {
     "revision": "7c730fca499b49d4f5598a647c216f38",
     "url": "/img/img/overserach-pipedrive-progress-dashboard-29d42214218f802b8cb512f1aa03ca9f-1-month-all-2019-12-20-10_41_45.jpg"
   },
@@ -252,8 +252,8 @@ self.__precacheManifest = [
     "url": "/img/img/push-notifications-local.jpg"
   },
   {
-    "revision": "9ec47199b11a7da5de38ca98c3739b70",
-    "url": "/img/img/local-website-design-near-me.jpg"
+    "revision": "2e83f85b5c534fbe835498890415b71b",
+    "url": "/img/img/local-business/local-restaurant-search.jpg"
   },
   {
     "revision": "1c3eaf8738958d303af387d71b867cfa",
@@ -268,16 +268,16 @@ self.__precacheManifest = [
     "url": "/img/img/mobile-app-developer.jpg"
   },
   {
-    "revision": "77596b46df9ed1591cd9337e9e436088",
-    "url": "/img/img/local-business-storage.jpg"
+    "revision": "9ec47199b11a7da5de38ca98c3739b70",
+    "url": "/img/img/local-website-design-near-me.jpg"
   },
   {
     "revision": "57829f650b680e3331de0ec59e9aaa00",
     "url": "/img/img/local-business-website-design.jpg"
   },
   {
-    "revision": "8a190de107858fe24fa6703c5f4007ba",
-    "url": "/img/img/local-branding-design.jpg"
+    "revision": "a1d0a48cf17886d62f3d4b111790f2a9",
+    "url": "/img/img/back/descriptions.jpg"
   },
   {
     "revision": "00ba84bd4b9fbc02a395529afa956d1c",
@@ -286,6 +286,10 @@ self.__precacheManifest = [
   {
     "revision": "36d23ef1b155efbdb9f6a6c52ef2948b",
     "url": "/img/img/local-business-citations.jpg"
+  },
+  {
+    "revision": "8a190de107858fe24fa6703c5f4007ba",
+    "url": "/img/img/local-branding-design.jpg"
   },
   {
     "revision": "2a111c45c6ed4c1434b478d30e050e42",
@@ -300,10 +304,6 @@ self.__precacheManifest = [
     "url": "/img/img/get-more-traffic.jpg"
   },
   {
-    "revision": "6f1b16025255ff2a2f03986e3a46cf85",
-    "url": "/img/home6.6f1b1602.jpg"
-  },
-  {
     "revision": "d7156aef3e8a282269215c78b7063647",
     "url": "/img/img/back/trust-logos.jpg"
   },
@@ -312,32 +312,32 @@ self.__precacheManifest = [
     "url": "/img/img/data-web-analytics.jpg"
   },
   {
-    "revision": "784d79c3a5af303cf3fb8aefe2dc9731",
-    "url": "/img/img/Local-Calendar.jpg"
+    "revision": "a94dd874e4cd56109ad14520be7278b9",
+    "url": "/img/img/briosopasta.pdf"
   },
   {
-    "revision": "0aa65cbaa2c4dd09d2b97166f6911983",
-    "url": "/img/img/back/ssl.jpg"
+    "revision": "34574af1676894e92820db8d52c40d84",
+    "url": "/img/img/briosopasta.jpg"
   },
   {
     "revision": "9ab21f861c43b6e161e54426c3193235",
     "url": "/img/img/creative-ad-designers.jpg"
   },
   {
-    "revision": "7d0b14866eda9d58be50948ef1e8619f",
-    "url": "/img/img/It-Consulting.png"
+    "revision": "b4fc39d9f068235e0a839fe4045f979c",
+    "url": "/img/img/briosopasta-small.jpg"
   },
   {
     "revision": "ad104ebd3bc484e220fb4ad30786ed7c",
     "url": "/img/img/customer-retention.jpg"
   },
   {
-    "revision": "156f3bd0dad0fd81551b929f86cdd584",
-    "url": "/img/img/back/navigation.jpg"
+    "revision": "35ef45024973f1ba72c08be71bfb18a5",
+    "url": "/img/img/home.jpg"
   },
   {
-    "revision": "74d6e749bb98696ef967ec701cb18107",
-    "url": "/img/img/back/pricing.jpg"
+    "revision": "1a959c45852a05d4b8f043486832c76e",
+    "url": "/img/img/behavioral-targeting.jpg"
   },
   {
     "revision": "5019c65c17dc445cb879ac32955fd654",
@@ -348,100 +348,104 @@ self.__precacheManifest = [
     "url": "/img/img/customer-engagement.jpg"
   },
   {
-    "revision": "a94dd874e4cd56109ad14520be7278b9",
-    "url": "/img/img/briosopasta.pdf"
-  },
-  {
-    "revision": "a1d0a48cf17886d62f3d4b111790f2a9",
-    "url": "/img/img/back/description.jpg"
-  },
-  {
-    "revision": "657a30ac7b0a7b98dbdcbe1cfbd667fe",
-    "url": "/img/img/get-more-local-customers.jpg"
-  },
-  {
-    "revision": "65f591ba8bd6a7b5a1f874db3d42a948",
-    "url": "/img/img/content-writers-near-me.jpg"
-  },
-  {
-    "revision": "932df90647cf7495a126773df7151604",
-    "url": "/img/img/forbes.png"
-  },
-  {
-    "revision": "43a9e2d146a1eb4ad1e24ef846c85ac3",
-    "url": "/img/img/back/contact-web-design.jpg"
-  },
-  {
-    "revision": "755a9709216cc3c0dccbed521cac6b77",
-    "url": "/img/img/cc-logo.gif"
-  },
-  {
-    "revision": "d34fe4060665e161aaee72c78919f330",
-    "url": "/img/img/back/cta-local-web-design.jpg"
-  },
-  {
-    "revision": "bcda301c27a6b958631280a7eaafe0d3",
-    "url": "/img/img/back/headline.jpg"
-  },
-  {
-    "revision": "237c58582e889acf37bd88d22de4e5e1",
-    "url": "/img/img/back/social.jpg"
-  },
-  {
-    "revision": "0df52b11f5bc0a3f3a18f7ee9e1ff1d7",
-    "url": "/img/img/back/contact_phone-24px@2x.jpg"
-  },
-  {
-    "revision": "6208419b7aa7b8fdb5e371470af9cc3e",
-    "url": "/img/img/back/cta.jpg"
-  },
-  {
-    "revision": "cf57d71f13e86de0afff1f9e54f08f44",
-    "url": "/img/img/home3.jpg"
-  },
-  {
-    "revision": "52674ae201e19f372654f2386b0f0b94",
-    "url": "/img/img/automation-workflows.jpg"
-  },
-  {
-    "revision": "f15ec01338c312c5ce4a495859681a39",
-    "url": "/img/img/back/descriptions2.jpg"
+    "revision": "0224a3ae006e766a14e894e0746eb766",
+    "url": "/img/img/home2.jpg"
   },
   {
     "revision": "6baa73467470cc1e63c26bebec4dff41",
     "url": "/img/img/behavioral-targeting-2.jpg"
   },
   {
-    "revision": "ea0b01d68aaec5fd209198922447f510",
-    "url": "/img/img/9round.png"
+    "revision": "c03e013fae41fb3fc7e9ebc877536916",
+    "url": "/img/img/call tracking-local-ads.jpg"
   },
   {
-    "revision": "1a959c45852a05d4b8f043486832c76e",
-    "url": "/img/img/behavioral-targeting.jpg"
+    "revision": "657a30ac7b0a7b98dbdcbe1cfbd667fe",
+    "url": "/img/img/get-more-local-customers.jpg"
   },
   {
-    "revision": "0224a3ae006e766a14e894e0746eb766",
-    "url": "/img/img/home2.jpg"
+    "revision": "932df90647cf7495a126773df7151604",
+    "url": "/img/img/forbes.png"
+  },
+  {
+    "revision": "cf57d71f13e86de0afff1f9e54f08f44",
+    "url": "/img/img/home3.jpg"
+  },
+  {
+    "revision": "755a9709216cc3c0dccbed521cac6b77",
+    "url": "/img/img/cc-logo.gif"
+  },
+  {
+    "revision": "65f591ba8bd6a7b5a1f874db3d42a948",
+    "url": "/img/img/content-writers-near-me.jpg"
+  },
+  {
+    "revision": "74d6e749bb98696ef967ec701cb18107",
+    "url": "/img/img/back/pricing.jpg"
+  },
+  {
+    "revision": "bcda301c27a6b958631280a7eaafe0d3",
+    "url": "/img/img/back/headline.jpg"
+  },
+  {
+    "revision": "0aa65cbaa2c4dd09d2b97166f6911983",
+    "url": "/img/img/back/ssl.jpg"
+  },
+  {
+    "revision": "237c58582e889acf37bd88d22de4e5e1",
+    "url": "/img/img/back/social.jpg"
+  },
+  {
+    "revision": "156f3bd0dad0fd81551b929f86cdd584",
+    "url": "/img/img/back/navigation.jpg"
+  },
+  {
+    "revision": "8896312cd535a4217754",
+    "url": "/css/chunk-vendors.129cc02f.css"
+  },
+  {
+    "revision": "43a9e2d146a1eb4ad1e24ef846c85ac3",
+    "url": "/img/img/back/contact-web-design.jpg"
   },
   {
     "revision": "3dacffdfdd0da43dd2e7c8c4d44fc18a",
     "url": "/img/img/back/contact_phone-24px@2x.svg"
   },
   {
-    "revision": "35ef45024973f1ba72c08be71bfb18a5",
-    "url": "/img/img/home.jpg"
+    "revision": "f15ec01338c312c5ce4a495859681a39",
+    "url": "/img/img/back/descriptions2.jpg"
   },
   {
-    "revision": "c03e013fae41fb3fc7e9ebc877536916",
-    "url": "/img/img/call tracking-local-ads.jpg"
+    "revision": "0df52b11f5bc0a3f3a18f7ee9e1ff1d7",
+    "url": "/img/img/back/contact_phone-24px@2x.jpg"
   },
   {
-    "revision": "b4fc39d9f068235e0a839fe4045f979c",
-    "url": "/img/img/briosopasta-small.jpg"
+    "revision": "d34fe4060665e161aaee72c78919f330",
+    "url": "/img/img/back/cta-local-web-design.jpg"
   },
   {
-    "revision": "34574af1676894e92820db8d52c40d84",
-    "url": "/img/img/briosopasta.jpg"
+    "revision": "6208419b7aa7b8fdb5e371470af9cc3e",
+    "url": "/img/img/back/cta.jpg"
+  },
+  {
+    "revision": "52674ae201e19f372654f2386b0f0b94",
+    "url": "/img/img/automation-workflows.jpg"
+  },
+  {
+    "revision": "784d79c3a5af303cf3fb8aefe2dc9731",
+    "url": "/img/img/Local-Calendar.jpg"
+  },
+  {
+    "revision": "7d0b14866eda9d58be50948ef1e8619f",
+    "url": "/img/img/It-Consulting.png"
+  },
+  {
+    "revision": "ea0b01d68aaec5fd209198922447f510",
+    "url": "/img/img/9round.png"
+  },
+  {
+    "revision": "6f1b16025255ff2a2f03986e3a46cf85",
+    "url": "/img/home6.6f1b1602.jpg"
   },
   {
     "revision": "1ba2ae710d927f13d483fd5d1e548c9b",
@@ -456,11 +460,7 @@ self.__precacheManifest = [
     "url": "/css/pricing.985ac706.css"
   },
   {
-    "revision": "8896312cd535a4217754",
-    "url": "/css/chunk-vendors.129cc02f.css"
-  },
-  {
-    "revision": "790bc21f074cc5ab960e",
+    "revision": "401fe7828e48cac35bfe",
     "url": "/css/app.327c663e.css"
   }
 ];
