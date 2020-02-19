@@ -141,7 +141,7 @@
 </script>
 
 <style scoped>
-    /* Rules for sizing the icon. */
+    /* Rules for sizing the icons. */
     .material-icons.md-18 { font-size: 18px; }
     .material-icons.md-24 { font-size: 24px; }
     .material-icons.md-36 { font-size: 36px; }
