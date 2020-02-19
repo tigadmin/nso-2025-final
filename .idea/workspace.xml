@@ -2,34 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9cf74d2c-8de7-4632-9926-2ae490cebf18" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gruntfile.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MigratorConfig.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PRIVACY.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/0f33cb10ebfe3088e4e6578acf94b1c5.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/0f33cb10ebfe3088e4e6578acf94b1c5.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/1f1c023700c546000dd62f50ad7c6905.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/1f1c023700c546000dd62f50ad7c6905.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/2f2a257e9b587e8e7f387755ea2bc235.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/2f2a257e9b587e8e7f387755ea2bc235.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/a29255365b6119d450ef1531a1f4665c.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/a29255365b6119d450ef1531a1f4665c.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/abe6d0e79fcac6ab1b102c6d84bb1241.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/abe6d0e79fcac6ab1b102c6d84bb1241.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/e1f889633ef2f11a0f0e7ac3886c1449.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/e1f889633ef2f11a0f0e7ac3886c1449.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/ef11b81b97de847fc300c28251b4083f.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/ef11b81b97de847fc300c28251b4083f.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/05d81d271dd010b9ed662731158723ae.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/05d81d271dd010b9ed662731158723ae.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/17df37b17504bc88a2d1ce7f32bc1c00.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/17df37b17504bc88a2d1ce7f32bc1c00.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/46579706f60ac2b911d7a9f6542f9064.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/46579706f60ac2b911d7a9f6542f9064.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/608e54b210bd9f53c80445ba6b1d7b4e.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/608e54b210bd9f53c80445ba6b1d7b4e.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/709ca29a6a7ca8205fe68da0c19e3122.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/709ca29a6a7ca8205fe68da0c19e3122.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/99aed14bb699e97f09c179ce5d14e034.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/99aed14bb699e97f09c179ce5d14e034.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/ba5d5cab281b64f0b0d3a2e2c14795d4.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/ba5d5cab281b64f0b0d3a2e2c14795d4.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/e305c7a370ae798202a459778faabbb7.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/e305c7a370ae798202a459778faabbb7.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/f9b392bb16aa7aee290e475f6f1ccf52.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/f9b392bb16aa7aee290e475f6f1ccf52.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/fdcbb687ed951f646a01b97830dc202c.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/fdcbb687ed951f646a01b97830dc202c.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/img/briosopasta.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/renovate.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/router.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/router.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/Home.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/Home.vue" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/dist/" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -62,11 +35,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/views/Start.vue">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
               <caret line="4" column="21" lean-forward="true" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/router.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -113,8 +95,8 @@
         <option value="$PROJECT_DIR$/src/components/Privacy.vue" />
         <option value="$PROJECT_DIR$/public/manifest.json" />
         <option value="$PROJECT_DIR$/src/main.js" />
-        <option value="$PROJECT_DIR$/src/router.js" />
         <option value="$PROJECT_DIR$/src/views/Start.vue" />
+        <option value="$PROJECT_DIR$/src/router.js" />
       </list>
     </option>
   </component>
@@ -140,8 +122,10 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="width" value="1440" />
-    <option name="height" value="900" />
+    <option name="x" value="40" />
+    <option name="y" value="23" />
+    <option name="width" value="1400" />
+    <option name="height" value="877" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -173,12 +157,6 @@
               <item name="net" type="b2602c69:ProjectViewProjectNode" />
               <item name="net" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="net" type="b2602c69:ProjectViewProjectNode" />
-              <item name="net" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="net" type="b2602c69:ProjectViewProjectNode" />
@@ -255,12 +233,12 @@
       <workItem from="1582079068818" duration="219000" />
       <workItem from="1582080054002" duration="1332000" />
       <workItem from="1582084127550" duration="170000" />
-      <workItem from="1582084470826" duration="1019000" />
+      <workItem from="1582084470826" duration="1439000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="55284000" />
+    <option name="totallyTimeSpent" value="55704000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="42" y="23" width="1398" height="877" extended-state="6" />
@@ -449,13 +427,6 @@
     <entry file="file://$PROJECT_DIR$/src/store.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/router.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="77" column="5" selection-start-line="77" selection-start-column="5" selection-end-line="77" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -494,6 +465,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="21" lean-forward="true" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/router.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
         </state>
       </provider>
     </entry>
