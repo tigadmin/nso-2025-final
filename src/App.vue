@@ -72,7 +72,7 @@
           >Marketing</v-btn
         >
         <v-btn flat router to="/works/local-business-web.html" exact
-          >How It Works</v-btn
+          >PORTFOLIO</v-btn
         >
         <v-btn
           flat
