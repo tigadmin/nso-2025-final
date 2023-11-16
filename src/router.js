@@ -54,7 +54,7 @@ export default new Router({
     {
       path: "/message/",
       beforeEnter() {
-        location.href = "https://m.me/NETSTUDIOS";
+        location.href = "https://calendly.com/netstudios/netsitesonline";
       }
     },
     {
@@ -74,7 +74,7 @@ export default new Router({
       target: "_blank",
       beforeEnter() {
         location.href =
-          "https://netstudiosinc.pipedrive.com/scheduler/YoyjRqu1/meeting";
+          "https://calendly.com/netstudios/netsitesonline";
       }
     },
     {
