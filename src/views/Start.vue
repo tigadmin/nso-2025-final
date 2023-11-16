@@ -2,7 +2,6 @@
   <div>
     <startnow />
     <Startform />
-    <Startpipe />
   </div>
 </template>
 
