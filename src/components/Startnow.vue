@@ -8,10 +8,9 @@
               NET SITES ONLINE
             </div>
             <div class="flex subheading font-weight-light">
-              Give us a call at (864) 508-7140 or complete the form below to get
-              started. If you have any questions or concerns please let us know.
-              New customers: schedule a conference call
-              <router-link to="/meeting">here</router-link>
+              Give us a call at (864) 508-7140. If you have any questions or concerns please let us know.
+              New customers: schedule a conference call by
+              <router-link to="/message/">clicking here</router-link>.
             </div>
           </div>
         </v-flex>

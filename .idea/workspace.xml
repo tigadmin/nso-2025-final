@@ -6,8 +6,12 @@
   <component name="ChangeListManager">
     <list default="true" id="9cf74d2c-8de7-4632-9926-2ae490cebf18" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/0db9e1acf600db62f0a5bf990984a2c2.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/0db9e1acf600db62f0a5bf990984a2c2.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/router.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/router.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/9d48a248c6388388ff3daf08a72a8f3d.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/9d48a248c6388388ff3daf08a72a8f3d.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/b4d61582fb0f552205a1733bf9cd8168.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/b4d61582fb0f552205a1733bf9cd8168.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/bf830159d1fd62f6173f6b8ccfd9910b.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/bf830159d1fd62f6173f6b8ccfd9910b.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/e3e5b7336819c87a8b83c6053620452d.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/e3e5b7336819c87a8b83c6053620452d.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/ecbc47f3f7bd9b3fa3f34b07fe01e8d0.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/ecbc47f3f7bd9b3fa3f34b07fe01e8d0.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Startnow.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Startnow.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -238,7 +242,7 @@
       <workItem from="1699635556545" duration="530000" />
       <workItem from="1699636820105" duration="90000" />
       <workItem from="1699637580761" duration="9347000" />
-      <workItem from="1700005611717" duration="2511000" />
+      <workItem from="1700005611717" duration="3363000" />
     </task>
     <servers />
   </component>
